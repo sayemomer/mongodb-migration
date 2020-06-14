@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"omer21.departments"}],"uuid":"6e2ca7937f9d44ce9e247c37a587d2e6"}

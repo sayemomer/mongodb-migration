@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"omer21.projects"}],"uuid":"5f67b9d234ef40b8aeb2f5907231707e"}
